@@ -41,5 +41,15 @@ img{
 #navbar li.current a, #navbar a:hover{
     color: #56a79a;
     border-bottom: 3px solid #56a79a;
-    padding-bottom: ;
+    padding-bottom: 3px;
+}
+/*SHOWCASE*/
+#showcase{
+    background: url('../images/showcase.jpg') no-repeat center center;
+    border-bottom: 1px solid #56a79a;
+    margin-bottom: 30px;
+}
+
+#showcase .row{
+    height: 600px;
 }
