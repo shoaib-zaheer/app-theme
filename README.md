@@ -1,9 +1,9 @@
 # APP-*Theme*
 ****
 
-[Responsive web-page](#responsive-web-page)
-[Flex Box in `CSS`](#flex-box-in-css)
-[Github Branching](#github-branching)
+- [Responsive web-page](#responsive-web-page)
+- [Flex Box in `CSS`](#flex-box-in-css)
+- [Github Branching](#github-branching)
 
 ## Responsive web-page
 `What is Responsive web page ?`
