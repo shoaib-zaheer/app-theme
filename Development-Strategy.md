@@ -10,16 +10,12 @@
 | __Live Boilerplate__ | **Created** primary files `index.html` folder for `IMG` and folder for `style.css` sheet, without making big changes I tried to keep more focus. How `github` branching work by continuously `push` `pull` `merge` all my files with github. | Boilerplate for `index.html`| An empty folder |
 |  | |  |  |
 | ... | ... | ... | ... |
-| __Creating CSS file__ | **After** completeing `index.html` and knowing every `section` and parts of html it is easy to write `CSS` codes and use them for more then one `section` i did not writie for every `tag` separate `CSs` code | `form` `input` `button` `aside` | Created CSS file for `index.html` & linked it to `inbex.html` |
+| __Working in steps__ |**following** steps by video made work easy to work one step at a time to understand the dotes for the big picture  | created `div` tags to divide the page in several branches |An empty folder|
 |  | |  |  |
 | ... | ... | ... | ... |
-| __Writing About me page__| **Nice** to know i can write all `CSS` codes for one project in one single `CSS` page, and i don't have to wirte alot of codes just simple changes | (what did you add to the HTML?) | Creating `dark` and `sidebar` classes and update some begud from my `CSS` file |
+| __Giving classes and IDs rules in CSS__ | **Knowing** every class and IDs and assigning them names duets helps CSS rules to be set for every individual | |creating and writing `CSS` rules for `ID` and `Class`|
 |  | |  |  |
 | ... | ... | ... | ... |
-| __Creating Service page__ | For making Service it is similer to About page but i learn making `form` in `HTML5` is easy | `form`, `lable` for email `textara` for writing text with `placeholder` & `button` to submit | `width` & `padding` for `sidebar` and its `text` `li` ruls for `services` ID and `ul` |
-|  | |  |  |
-| ... | ... | ... | ... |
-| __Responsivnes of page as per user device__ | **Knowing** that we can usd one ``media` code for complete project is nice, and adding every `ID` `class` just using `.` but for some indviual we can make as set of rools in same `media` | Nothing | `@media` ruls for complete project |
-
+|__Created other `HTML` and `CSS` pages__|**Once** the `index.html` & `style.css` is created making other pages were supper easy just to copy and past and making the miner changes for every class in both `HTML` & `CSS`|Creating `About`,`Service` & `Contact` pages|Created CSS `Class` and `ID` for About, Service and Contact pages|
 ---
 ---
